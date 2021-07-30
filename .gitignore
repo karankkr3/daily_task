@@ -1,4 +1,4 @@
-*/.json
-*/nodu_modules
-
+*/*.json
+**/nodu_modules
+*.gitignore
 
