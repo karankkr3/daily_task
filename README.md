@@ -12,8 +12,8 @@
 3) Apply external css file into html by using npm
 5) Read one txt file from that content remove all vowels and write updated content in new file
 
-#02-08-2021 task
-Do the following task in NODE
+#30-07-2021 task
+1) Do the following task in NODE
 Make a form and validate the following fields in a form
 Name : Only alphabets should be allowed
 Mobile number : Only numbers are allowed Entered number must be of 10 digits
